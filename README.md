@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/intersect-events.svg)](https://badge.fury.io/js/intersect-events)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-'intersect-events' add intersection events to dom elements.
+**intersect-events** add intersection events to dom elements.
 
 ## Install
 
